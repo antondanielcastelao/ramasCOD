@@ -29,3 +29,8 @@ Ahora hacemos el commit C en la rama exp
 ```bash
 git commit -a -m "C"
 ```
+
+Hacemos el commit D en la rama exp despues de escribir en main
+```bash
+git commit -a -m "D"
+```
