@@ -8,3 +8,8 @@ Ahora el commit "B"
 ```bash
 git commit -a -m "B"
 ```
+
+Podemos seguir haciendo commits paralelamente a la rama main sin afectar exp si hacemos checkout
+```bash
+git checkout main
+```
